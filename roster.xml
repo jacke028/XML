@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+<?xml-stylesheet type="text/css" href="styles.css" ?>
+-->
+<!DOCTYPE catalogued SYSTEM "Structured.dtd">
+
+<Roster>
+	<Lifter>
+		<Name>Lifter 1</Name>
+		<Year>Senior</Year>
+		<Squat>Squat: 300 lbs</Squat>
+		<Bench>Bench Press: 250 lbs</Bench>
+		<Deadlift>Deadlift: 350 lbs</Deadlift>
+		<Event>Event: 10,000 Plates</Event>
+		<Date>Date: December 7th, 2019</Date>
+		<Time>Time: N/A</Time>
+		<Location>Location: Maplewood, MN</Location>
+	</Lifter>
+
+	<Lifter>
+		<Name>Lifter 2</Name>
+		<Year>Junior</Year>
+		<Squat>Squat: 275 lbs</Squat>
+		<Bench>Bench Press: 275 lbs</Bench>
+		<Deadlift>Deadlift: 150lbs</Deadlift>
+		<Event>Event: 10,000 Plates</Event>
+		<Date>Date: December 7th, 2019</Date>
+		<Time>Time: N/A</Time>
+		<Location>Location: Maplewood, MN</Location>
+	</Lifter>
+</Roster>

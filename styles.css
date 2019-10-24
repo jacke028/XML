@@ -1,0 +1,39 @@
+Lifter {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 300px;
+	display: block;
+	padding: 10pt;
+	border: 1px solid #0D3427;
+	margin: 5px;
+	text-align: left;}
+Name{
+	color: #0D3427;
+	font-weight: bold;
+	font-size: 140%;
+	display: block;
+	margin-bottom: 3%;}
+Year{
+	color: #523819;
+	display: block;}
+Squat{
+	color: #523819;
+	display: block;}
+Bench{
+	color: #523819;
+	display: block;}
+Deadlift{
+	color: #523819;
+	display: block;}
+Event{
+	font-weight: bold;
+	color: #523819;
+	display: block;}
+Date{
+	color: #523819;
+	display: block;}
+Time{
+	color: #523819;
+	display: block;}
+Location{
+	color: #523819;
+	display: block;}

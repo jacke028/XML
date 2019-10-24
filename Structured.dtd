@@ -1,0 +1,11 @@
+<!ELEMENT Roster (Lifter+)>
+<!ELEMENT Lifter (Name, Year, Squat, Bench, Deadlift, Event, Date, Time, Location)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Year (#PCDATA)>
+<!ELEMENT Squat (#PCDATA)>
+<!ELEMENT Bench (#PCDATA)>
+<!ELEMENT Deadlift (#PCDATA)>
+<!ELEMENT Event (#PCDATA)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Time (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
